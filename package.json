@@ -1,14 +1,14 @@
 {
-  "name": "soundcloud-hyperbone",
-  "version": "0.1.0",
-  "description": "Exposing the SoundCloud API via HyperBone.",
+  "name": "Your package name",
+  "version": "Your package version",
+  "description": "Your package's description",
 
   "author": "Brandon R. Stoner",
   "license": "MIT",
 
   "repository": {
     "type": "git",
-    "url": "github.com:monokrome/soundcloud-hyperbone"
+    "url": "Your repository URL"
   },
 
   "devDependencies": {
